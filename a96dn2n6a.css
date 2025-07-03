@@ -484,6 +484,9 @@ body, h1, h2, h3, h4, h5, h6, p, span, div, strong, em, label, input, button, td
   line-height: 1.2;
 }
 
+.nama-keluarga {
+  margin-top: -0.5rem; /* atau -8px, boleh laras ikut kesesuaian */
+}
 
 section *, .wishlist *, #main-content * {
   max-width: 100%;
